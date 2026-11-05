@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,java,kotlin,ts,js,php,latex" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,ts,js,latex" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,maven,anaconda,npm,docker" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,anaconda,docker" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,vue,mysql" />
+    <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,react,mysql" />
   </a>
 </p>
 
